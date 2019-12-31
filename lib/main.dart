@@ -3,6 +3,7 @@ import './random_words.dart';
 
 void main() => runApp(MyApp());
 
+//stateless
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
